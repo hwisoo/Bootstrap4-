@@ -64,3 +64,9 @@ body {
     color: black;
 
 }
+
+#cancel {
+    border: 2px solid grey;
+    margin-right: 15px;
+    background-color: lightgray;
+}
