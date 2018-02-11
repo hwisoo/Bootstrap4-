@@ -70,3 +70,9 @@ body {
     margin-right: 15px;
     background-color: lightgray;
 }
+
+#carouselButtons {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
